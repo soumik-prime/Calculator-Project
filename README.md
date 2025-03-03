@@ -49,7 +49,7 @@ To run the program, follow these steps:
 2. Navigate to the project directory:
 
   ```bash
-     cd calculator
+      cd calculator
   ```
 3. Compile the program:
 
