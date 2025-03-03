@@ -45,20 +45,16 @@ To run the program, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/yourusername/Calculator-Project.git
 2. Navigate to the project directory:
 
-  ```bash
-      cd calculator
-  ```
+   ```bash
+   cd Calculator-Project
 3. Compile the program:
 
    ```bash
-     g++ -o calculator main.cpp
-   ```
-
+   g++ -o calculator main.cpp
 4. Run the program:
 
    ```bash
-     ./calculator
-   ```
+   ./calculator
